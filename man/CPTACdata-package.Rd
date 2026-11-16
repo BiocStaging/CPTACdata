@@ -41,8 +41,8 @@ any acknowledgement or citation you must include in publications.
 \seealso{
 Useful links:
 \itemize{
-  \item \url{https://github.com/LiNk-NY/CPTACdata}
-  \item Report bugs at \url{https://github.com/LiNk-NY/CPTACdata/issues}
+  \item \url{https://github.com/waldronlab/CPTACdata}
+  \item Report bugs at \url{https://github.com/waldronlab/CPTACdata/issues}
 }
 
 }
